@@ -7,4 +7,6 @@
 
 -->  This tool can be used to steal credentials and invade privacy.
 
--->  **This project does not promote any illegal activities and is provided for educational purpose only**
+-->  **This project does not promote any illegal activities and is provided for educational purpose only.**
+
+-->  **This project wouldn't be possible without the knowledge I gained from David Bombal I would like to thank him for his amazing videos.**
