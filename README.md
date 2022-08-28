@@ -6,3 +6,5 @@
 
 
 -->  This tool can be used to steal credentials and invade privacy.
+
+-->  **This project does not promote any illegal activities and is provided for educational purpose only**
